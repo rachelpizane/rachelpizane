@@ -4,7 +4,7 @@ Meu nome é Rachel Pizane e sou uma potencial desenvolvedora front-end!
 
 ## Sobre mim
 
-Sou estudande do curso de Análise e Desenvolvimento de Sistemas no Instituto Infnet e busco consolidar meus conhecimentos aprendidos em aula por meio de projetos práticos, tais como a criação de páginas web simples utilizando HTML, CSS e JavaScript.
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Infnet e busco consolidar meus conhecimentos aprendidos em aula por meio de projetos práticos, tais como a criação de páginas web simples utilizando HTML, CSS e JavaScript.
 
 <!--
 **rachelpizane/rachelpizane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
