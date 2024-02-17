@@ -1,4 +1,9 @@
-### Hi there 👋
+# Olá! Seja bem-vindo(a)! 🙋🏻‍♀️
+## Sobre mim
+- Estou cursando **Análise e Desenvolvimento de Sistemas** no Instituto Infnet;
+- Estou estudando e consolidando os meus conhecimentos em HTML, CSS e JavaScript por meio de projetos práticos.
+  
+
 
 <!--
 **rachelpizane/rachelpizane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
