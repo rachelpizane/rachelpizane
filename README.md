@@ -1,22 +1,12 @@
 # Olá! Seja bem-vindo(a)! 🙋🏻‍♀️
 
-Meu nome é Rachel Pizane e sou uma potencial desenvolvedora front-end!
+Meu nome é **Rachel Pizane** e meu objetivo é ser uma desenvolvedora front-end!
 
-## Sobre mim
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Infnet. Atualmente busco consolidar meus conhecimentos aprendidos em aula por meio de projetos práticos, utilizando HTML, CSS e JavaScript.
 
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Infnet e busco consolidar meus conhecimentos aprendidos em aula por meio de projetos práticos, tais como a criação de páginas web simples utilizando HTML, CSS e JavaScript.
+<br><br><br>
 
-<!--
-**rachelpizane/rachelpizane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 *Fique à vontade para me acompanhar também no Linkedin.* 
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/rachel-pizane/" target="_blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
