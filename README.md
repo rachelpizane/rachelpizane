@@ -1,8 +1,7 @@
 # Olá! Seja bem-vindo(a)! 🙋🏻‍♀️
 
-Meu nome é **Rachel Pizane** e meu objetivo é ser uma desenvolvedora front-end!
 
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Infnet. Atualmente busco consolidar meus conhecimentos aprendidos em aula por meio de projetos práticos, utilizando HTML, CSS e JavaScript.
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Infnet. Atualmente busco consolidar meus conhecimentos aprendidos em aula por meio de projetos práticos.
 
 <br>
 
