@@ -10,10 +10,27 @@ Atualmente, sigo aprofundando meus conhecimentos em back-end e arquitetura, alé
 
 <br>
 
-### 🛠️ Tecnologias
-Java | Spring Boot | Spring Data JPA | PostgreSQL | Docker | JUnit | Mockito | Angular | TypeScript
+🔗 [Me acompanhe também no LinkedIn](https://www.linkedin.com/in/rachel-pizane/)
 
-<br>
+## 🛠️ Tecnologias
+### Backend:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-<a href="https://www.linkedin.com/in/rachel-pizane/" target="_blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+### Banco de dados:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Testes:
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-45A049?style=for-the-badge&logo=java&logoColor=white)
+![Karma](https://img.shields.io/badge/Karma-56C0C0?style=for-the-badge&logo=karma&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+
+### Frontend:
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Ferramentas:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
